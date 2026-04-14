@@ -67,6 +67,31 @@ O projeto conta com telas voltadas para:
 * gerenciamento de serviços;
 * histórico de registros.
 
+## Capturas de tela
+
+Abaixo estão exemplos das principais interfaces do sistema:
+
+### Login
+
+![Tela de login](./assets/login.png)
+
+### Tela inicial
+
+![Tela inicial](./assets/home.png)
+
+### Cadastro de clientes
+
+![Cadastro de clientes](./assets/clientes_cadastro.png)
+
+### Listagem de clientes
+
+![Listagem de clientes](./assets/clientes_lista.png)
+
+### Cadastro de pedidos
+
+![Cadastro de pedidos](./assets/pedidos.png)
+
+
 ## Próximas implementações
 
 * aprimoramento de UX/UI com interface mais moderna;
