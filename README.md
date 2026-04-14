@@ -81,7 +81,7 @@ Abaixo estão exemplos das principais interfaces do sistema:
 
 ### Cadastro de clientes
 
-![Cadastro de clientes](./assets/clientes_cadastro.png)
+![Cadastro de clientes](./assets/clientes.png)
 
 ### Listagem de clientes
 
