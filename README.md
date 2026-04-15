@@ -107,7 +107,7 @@ O sistema organiza suas principais rotinas em módulos, permitindo ampliar o pro
 
 ## Observações
 
-Este projeto foi desenvolvido como uma solução desktop voltada à gestão de processos internos, com foco em praticidade, modularidade e evolução contínua.
+Este projeto está sendo desenvolvido como uma solução desktop voltada à gestão de processos internos, com foco em praticidade, modularidade e evolução contínua.
 
 ## Licença
 
